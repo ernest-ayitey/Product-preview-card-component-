@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/ernest-ayitey/Product-preview-card-component-)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://product-preview-card-component-jq9i.vercel.app/)
 
 ## My process
 
@@ -93,7 +93,7 @@ using right tags
 
 ## Author
 
-- Frontend Mentor - [@ernest-ayitey](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ernest-ayitey] (https://www.frontendmentor.io/solutions/productpreviewcardcomponent-GHXRK5Npt8)
 
 ## License
 
