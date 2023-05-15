@@ -95,4 +95,8 @@ using right tags
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
+## License
+
+This project is [MIT](https://github.com/ernest-ayitey/product-preview-card-component/blob/main/LICENSE) licensed
+
 
