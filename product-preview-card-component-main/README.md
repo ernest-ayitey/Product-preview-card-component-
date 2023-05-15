@@ -93,7 +93,7 @@ using right tags
 
 ## Author
 
-- Frontend Mentor - [@Ernestayitey](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ernest-ayitey](https://www.frontendmentor.io/profile/yourusername)
 
 ## License
 
